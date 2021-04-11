@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python, App Development. 
 - 👨‍💻 I know Python, HTML, CSS, C, C++, XML, JavaScript and BrainF#ck.
 
-- <img src="https://github-readme-stats.vercel.app/api?username=subroto-das&show_icons=true&bg_color=000000"/>
+- <img src="https://github-readme-stats.vercel.app/api?username=subroto-das&show_icons=true&bg_color=000000&text_color=00FF00"/>
 - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
