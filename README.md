@@ -8,6 +8,14 @@
 
 - <img src="https://github-readme-stats.vercel.app/api?username=subroto-das&show_icons=true&bg_color=000000&text_color=00FF00"/>
 
+### Need to connect with me?
+
+<a href="https://web.facebook.com/tr0j4n.pr1nc3/">
+  <img align="left" alt="Subroto's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://github.com/subroto-das">
+  <img align="left" alt="Subroto's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 ### Languages & Tools:-
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
