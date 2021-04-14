@@ -7,8 +7,8 @@
 - 👨‍💻 I know Python, HTML, CSS, C, C++, XML, JavaScript and BrainF#ck.
 
 
-- <img src="https://github-readme-stats.vercel.app/api?username=subroto-das&show_icons=true&bg_color=000000&text_color=00FF00"/>
-- 
+ <img src="https://github-readme-stats.vercel.app/api?username=subroto-das&show_icons=true&bg_color=000000&text_color=00FF00"/>
+ 
 <a href="https://github.com/subroto-das">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subroto-das&theme=dark&hide_langs_below=1" />
 </a>
